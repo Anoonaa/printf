@@ -4,14 +4,16 @@ The printf() function, which is short for “print formatted,” is a fundamenta
 
 integers, floating-point numbers, characters, and strings
 
-in a well-structured manner.
+and can allow formatting in numerous ways.
 
 ## Resource :
 https://www.academia.edu/10297206/Secrets_of_printf_
 
-### Function Prototype
+### Parameters
 
-- **format**: A string containing format specifiers to control output formatting.
+-formatted_string: It is a string that specifies the data to be printed. It may also contain a format specifier to print the value of any variable such as a character and an integer.
+-arguments_list: These are the variable names corresponding to the format specifier
+
 
 ### Supported Format Specifiers
 
