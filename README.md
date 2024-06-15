@@ -11,8 +11,8 @@ https://www.academia.edu/10297206/Secrets_of_printf_
 
 ### Parameters
 
--formatted_string: It is a string that specifies the data to be printed. It may also contain a format specifier to print the value of any variable such as a character and an integer.
--arguments_list: These are the variable names corresponding to the format specifier
+- formatted_string: It is a string that specifies the data to be printed. It may also contain a format specifier to print the value of any variable such as a character and an integer.
+- arguments_list: These are the variable names corresponding to the format specifier
 
 
 ### Supported Format Specifiers
@@ -54,12 +54,12 @@ _printf("Hello %s\n", "World");
 
 ###### This will output:
 
-```Hello World```
+``` Hello World ```
 
 ### Authors
 
 - Anoona Sithole
-- Shumirai Sithole
+- Shumirai Sithole 
 
 
 
