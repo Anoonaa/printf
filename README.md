@@ -57,7 +57,6 @@ _printf("Hello %s\n", "World");
 ``` Hello World ```
 
 ### Authors
-
 - Anoona Sithole
 - Shumirai Sithole 
 
